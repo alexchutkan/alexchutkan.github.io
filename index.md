@@ -1,5 +1,6 @@
 ---
 theme: jekyll-theme-minimal
+title: CFB Pickem
 ---
 
 # Find the links to each week below the rules.
