@@ -1,3 +1,7 @@
+---
+theme: default
+---
+
 # Weeks
 
 Welcome to College Football Pickem, pick a week, and comment your choices, scores are decided by the rules below.
