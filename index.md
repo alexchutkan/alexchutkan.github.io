@@ -18,7 +18,8 @@ You must format your post as followed, or your post will be removed or ignored f
 
 If all of your picks were correct for the above example, you would receive 5 points total, with the top pick being worth 3 points, the second game being 2, and the last one. Put games that you are confident in the results towards the top of your list.
 
-4. Last, have fun, it's a game! Good luck!
+
+Mostly, rember to have fun, it's a game! Good luck!
 
 
 <ul>
