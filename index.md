@@ -4,6 +4,8 @@ theme: default
 
 # Find the links to each week below the rules.
 
+Purpe
+
 Welcome to College Football Pickem, pick a week, and comment your choices, scores are decided by the rules below. You must format your post as followed, or your post will be removed or ignored for results.
 
 1. Pick your winners for each game.
