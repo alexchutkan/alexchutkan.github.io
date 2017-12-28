@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: jekyll-theme-minimal
 ---
 
 # Find the links to each week below the rules.
