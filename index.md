@@ -3,9 +3,7 @@ theme: jekyll-theme-minimal
 title: CFB Pickem
 ---
 
-# Find the links to each week below the rules.
-
-Welcome to College Football Pickem, pick a week, and comment your choices, scores are decided by the rules below. You must format your post as followed, or your post will be removed or ignored for results.
+Welcome to College Football Pickem, pick a week, and comment your choices, scores are decided by the rules below. You must format your post as followed, or your post will be removed or ignored for results. The links to each week are displayed AFTER the rules. Please read these before you post.
 
 1. Pick your winners for each game.
 
