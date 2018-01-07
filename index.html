@@ -1,39 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Alex's</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="lit.css" />
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-    <script src="main.js"></script>
-</head>
-<body>
-    <div class="c">
-        <div class="row">
-            <b class="1 col">Alex's</b>
-            <a href="rules.html" class="1 col">Rules</a>
-            <a href="about.html" class="1 col">About</a>
-            <a href="contact.html" class="1 col"></a>
-        </div>
-        <hr>
-        <div class="pagebody">
-            <h1>Welcome to my page.</h1>
-            <p>
-                The rules for any post contests will pe provided in the Rules page. Below you'll see my posts.
-                Please don't expect much, I just started at this.
-            </p>
+---
+layout: default
+title: Blog Posts
+---
 
-            <div class="post">
-                <h3>NFC & AFC Divisional Rounds</h3>
-                <p>
-                    This week's predictions will be about who will be the top performers in the NFC and AFC
-                    divisional rounds. I would've started with the wildcard round but I'm pretty slow at
-                    this shit.
-                </p>
-            </div>
-        </div>
-</body>
-</html>
+<div id="home">
+  <h2><i class="fa fa-bookmark"></i> Blog Posts</h2>
+  <ul id="blog-posts" class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
